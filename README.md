@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Vinaya 👋
+🎓 Computer Science Student passionate about Software Development, Machine Learning, Backend Development and AI-Powered Applications.
 
-<!--
-**Vinaya-Busam/vinaya-busam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,django,ai,sklearn,tensorflow,opencv,flask,java,mysql,mongodb,html,css,c,go,js,git,github,vscode,anaconda,postman)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub stats
+
+![](https://streak-stats.demolab.com?user=Vinaya-Busam&theme=dark)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github)
+
+## 🔗 Connect With Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinaya-busam-b88942318/)
+[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:vinayaa.busam18@gmail.com)
