@@ -12,5 +12,5 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github)
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinaya-busam-b88942318/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinaya-busam-b88942318/) 
 [![GMail](https://skillicons.dev/icons?i=gmail)](mailto:vinayaa.busam18@gmail.com)
