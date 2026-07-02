@@ -9,7 +9,7 @@
 
 ![](https://streak-stats.demolab.com?user=Vinaya-Busam&theme=dark)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github-compact)
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinaya-busam-b88942318/) 
