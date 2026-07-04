@@ -1,5 +1,5 @@
 ## Hi there, I'm Vinaya 👋
-🎓 Computer Science Student passionate about Software Development, Machine Learning, Backend Development and AI-Powered Applications.
+🎓 Computer Science Student passionate about Backend Development, Machine Learning and AI-Powered Applications
 
 ## 🛠️ Tech Stack
 
