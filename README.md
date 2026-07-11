@@ -8,7 +8,7 @@
 
 ## 📊 GitHub stats
 
-<!-- ![](https://streak-stats.demolab.com?user=Vinaya-Busam&theme=dark) -->
+![](https://streak-stats.demolab.com?user=Vinaya-Busam&theme=dark)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github-compact)
 
 
