@@ -8,7 +8,7 @@
 
 ## 📊 GitHub stats
 <p align="center"> 
-  <img 
+  <img width="50%"
     src="https://streak-stats.demolab.com?user=Vinaya-Busam&theme=nightowl"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
