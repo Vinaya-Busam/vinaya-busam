@@ -8,8 +8,10 @@
 
 ## 📊 GitHub stats
 <p align="center"> 
-  <img height="190em" 
+  <img 
     src="https://streak-stats.demolab.com?user=Vinaya-Busam&theme=nightowl"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
   <img height="190em" width="40%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinaya-Busam&hide=html,css&langs_count=8&layout=compact&theme=nightowl">
 </p>
