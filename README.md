@@ -9,7 +9,7 @@
 ## 📊 GitHub stats
 <p align="center"> 
   <img width="50%"
-    src="https://streak-stats.demolab.com?user=Vinaya-Busam&theme=nightowl"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    src="https://streak-stats.demolab.com?user=Vinaya-Busam&theme=nightowl">
 </p>
 <p align="center">
   <img height="190em" width="40%"
