@@ -4,13 +4,18 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,ai,sklearn,tensorflow,opencv,flask,java,spring,mysql,html,css,c,go,js,git,github,vscode,postman" />
-
+</p>
 
 ## 📊 GitHub stats
+<p align="center"> 
+  <img height="190em" 
+    src="https://streak-stats.demolab.com?user=Vinaya-Busam&theme=nightowl"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="190em" width="40%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinaya-Busam&hide=html,css&langs_count=8&layout=compact&theme=nightowl">
+</p>
 
-![](https://streak-stats.demolab.com?user=Vinaya-Busam&theme=dark)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github-compact)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinaya-Busam&hide=html,css&langs_count=8&layout=compact&theme=dark)
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinaya-busam-b88942318/) 
