@@ -11,7 +11,7 @@
   <img width="45%" height="190em"
     src="https://streak-stats.demolab.com?user=Vinaya-Busam&theme=nightowl"> &nbsp;&nbsp;&nbsp;
   <img height="190em" width="40%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinaya-Busam&hide=html,css&langs_count=8&layout=compact&theme=nightowl">
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinaya-Busam&langs_count=8&layout=compact&theme=nightowl">
 </p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github-compact)
