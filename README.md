@@ -3,7 +3,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,ai,sklearn,tensorflow,opencv,flask,java,spring,mysql,html,css,c,go,js,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,ai,sklearn,tensorflow,opencv,flask,java,spring,mysql,html,css,go,js,git,github,vscode,postman" />
 </p>
 
 ## 📊 GitHub stats
