@@ -14,7 +14,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaya-Busam&langs_count=8&layout=compact&theme=nightowl">
 </p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinaya-Busam&theme=github-compact)
 
 
 ## 🔗 Connect With Me
